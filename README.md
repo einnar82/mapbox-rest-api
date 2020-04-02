@@ -10,5 +10,5 @@ Basic Mapbox REST API for Forward and Reverse Geocoding
 **Available endpoints:**
 |Endpoint|Method |
 |--|--|
-| [/api/v1/forward-geocoding?location='address'](http://mapbox-rest-api.herokuapp.com/api/v1/forward-geocoding?location=zambales) | GET |
-| [/api/v1/reverse-geocoding?location=lat,lng](http://mapbox-rest-api.herokuapp.com/api/v1/reverse-geocoding?location=23,28) | GET |
+| [/api/v1/forward-geocoding?location=address](http://mapbox-rest-api.herokuapp.com/api/v1/forward-geocoding?location=zambales) | GET |
+| [/api/v1/reverse-geocoding?location=lng,lat](http://mapbox-rest-api.herokuapp.com/api/v1/reverse-geocoding?location=23,28) | GET |
